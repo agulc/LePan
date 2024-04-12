@@ -1,6 +1,6 @@
-![P.A.N.](pan_photo.jpg)
+![P.A.N.](pan_photo.jpg "PRAISE THE MIGHTY PAN!" )
 
-= Ingredientes
+# Ingredientes
 
 - Harina
 - Agua
@@ -9,7 +9,7 @@
 - Azucar
 - Aceite de Oliva extra virgen
 
-= Preparación
+# Preparación
 
 Introducimos el agua templada en un recipiente amplio y hondo y añadimos la levadura fresca, desmenuzada, y el azúcar. Removemos hasta que el azúcar y la levadura se integren por completo.
 
