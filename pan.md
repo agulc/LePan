@@ -1,3 +1,5 @@
+![P.A.N.](pan_photo.jpg)
+
 = Ingredientes
 
 - Harina
